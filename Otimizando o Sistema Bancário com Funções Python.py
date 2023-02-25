@@ -155,4 +155,4 @@ while True:
         break
     else:
         print("Operação Inválida! Por favor selecione novamente a operação desejada")
-lc
+        
